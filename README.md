@@ -4,3 +4,5 @@
 [Feature Extension](https://github.com/Legacy-Edge/Legacy-Edge-Extensions)
 
 <script src="https://gist.github.com/ShortDevelopment/0b43fa199ac59ddcf0af5de416698315.js"></script>
+<link rel="icon" href="logo_white.png" />
+<link rel="shortcut icon" href="logo_white.png" />
